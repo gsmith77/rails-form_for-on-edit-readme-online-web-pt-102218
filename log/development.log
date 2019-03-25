@@ -766,3 +766,6 @@ Started GET "/posts/new" for 50.209.100.244 at 2019-03-25 19:49:39 +0000
 Processing by PostsController#new as HTML
   Rendering posts/new.html.erb within layouts/application
   Rendered posts/new.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 364ms (Views: 340.0ms | ActiveRecord: 0.6ms)
+
+
